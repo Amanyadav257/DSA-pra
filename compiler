@@ -1,0 +1,8 @@
+https://github.com/skeeto/w64devkit/releases/tag/v1.19.0
+extract in c drive 
+path set for sys variable (bin tk ka)
+curl https://t.ly/fef2
+then curl + url 
+then curl + file url
+ then curl + file url -o file name.c
+output - gcc Q1.c -o out && .\out
